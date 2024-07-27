@@ -1,0 +1,20 @@
+.heading{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.screen{
+    background-color: black;
+}
+.find{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 5px;
+}
+.gif{
+    background-color: black;
+}
+
